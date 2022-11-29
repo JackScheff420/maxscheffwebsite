@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Anmerkungen
+
+Damit etwas produktiv online angezeigt wird muss 'npm run deploy' geschrieben werden. Damit dieser Befehlt auch funktioniert müssen alle dependencies richtig sein! (Gab einen Fehler beim versuch eine Datei zu löschen und die dependencies sind drin geblieben)
+main ist der branch wo die Dateien abliegen; in gh-pages ist nur der build der durch den npm Befehl erzeugt wird
+
 ## Available Scripts
 
 In the project directory, you can run:
