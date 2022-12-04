@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/jackscheffwebsite/static/css/main.c2cab247.css",
-    "main.js": "/jackscheffwebsite/static/js/main.e09b51d6.js",
-    "index.html": "/jackscheffwebsite/index.html",
-    "main.c2cab247.css.map": "/jackscheffwebsite/static/css/main.c2cab247.css.map",
-    "main.e09b51d6.js.map": "/jackscheffwebsite/static/js/main.e09b51d6.js.map"
+    "main.css": "/maxscheffwebsite/static/css/main.c2cab247.css",
+    "main.js": "/maxscheffwebsite/static/js/main.b3a6225a.js",
+    "index.html": "/maxscheffwebsite/index.html",
+    "main.c2cab247.css.map": "/maxscheffwebsite/static/css/main.c2cab247.css.map",
+    "main.b3a6225a.js.map": "/maxscheffwebsite/static/js/main.b3a6225a.js.map"
   },
   "entrypoints": [
     "static/css/main.c2cab247.css",
-    "static/js/main.e09b51d6.js"
+    "static/js/main.b3a6225a.js"
   ]
 }
