@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/jackscheffwebsite/static/css/main.c2cab247.css",
-    "main.js": "/jackscheffwebsite/static/js/main.50748691.js",
+    "main.js": "/jackscheffwebsite/static/js/main.e09b51d6.js",
     "index.html": "/jackscheffwebsite/index.html",
     "main.c2cab247.css.map": "/jackscheffwebsite/static/css/main.c2cab247.css.map",
-    "main.50748691.js.map": "/jackscheffwebsite/static/js/main.50748691.js.map"
+    "main.e09b51d6.js.map": "/jackscheffwebsite/static/js/main.e09b51d6.js.map"
   },
   "entrypoints": [
     "static/css/main.c2cab247.css",
-    "static/js/main.50748691.js"
+    "static/js/main.e09b51d6.js"
   ]
 }
